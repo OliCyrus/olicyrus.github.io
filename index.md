@@ -5,8 +5,8 @@ My name is Andrey and I'm 23 and I currently live in Borisov, Belarus. I studied
 
 ### Interests
 
-*My personal interests are:*
- - *Creating desktop applications via C# Win Forms or WPF*
+My personal interests are:
+ - **Coding.** I really like creating desktop applications via C# Win Forms or WPF, and the most thing I enjoy about this is my perseverance to find a way to solve this or that issue that happens by coding process.
  -	*Learning English from foreing movies, music, videogames*
  -	*Playing videogames with my friends*
 
