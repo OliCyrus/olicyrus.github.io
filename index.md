@@ -1,13 +1,14 @@
 ## About me
 
-My name is Andrey and I'm 23. I studied at Belarusian State Technological University, faculty of information technology and graduated from it in 2017. I made my thesis software by using C#, so I decided to continue improving my coding skills with this programming language. 
-You can use the [editor on GitHub](https://github.com/OliCyrus/olicyrus.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Andrey and I'm 23 and I currently live in Borisov, Belarus. I studied at Belarusian State Technological University, faculty of information technology and graduated from it in 2017. I made my thesis software by using C#, so I decided to continue improving my coding skills with this programming language. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Interests
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*My personal interests are:*
+ - *Creating desktop applications via C# Win Forms or WPF*
+ -	*Learning English from foreing movies, music, videogames*
+ -	*Playing videogames with my friends*
 
 ```markdown
 Syntax highlighted code block
