@@ -1,5 +1,6 @@
 ## About me
 
+My name is Andrey and I'm 23. I studied at Belarusian State Technological University, faculty of information technology and graduated from it in 2017. I made my thesis software by using C#, so I decided to continue improving my coding skills with this programming language. 
 You can use the [editor on GitHub](https://github.com/OliCyrus/olicyrus.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
