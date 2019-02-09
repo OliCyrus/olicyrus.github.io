@@ -10,4 +10,8 @@ My personal interests are:
  -	**English.** I think English is not a privilege, but a necessity. I like to learn it from foreign movies, music, video games and other entertainment stuff. Still I seek experience to speak my mind freely.
  -	**Video games.** Spending time playing video games with my friends is what I'm fond of. I hope someday I will get a chance to take look at game development process which is very exciting too.
 
-
+Recent activity:
+ - EPAM Developing Modern Web Applications with ASP.NET and Microsoft Azure courses.
+ 
+ Other things:
+ - Military service as telegraph(morse code) an telephone communication specialist. 
