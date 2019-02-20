@@ -18,9 +18,9 @@ Recent activity:
 
 ## Projects
 
-###Padawans Tasks
+######Padawans Tasks
 
-[Fancy Calc]{https://github.com/OliCyrus/FancyCalc}
+[Fancy Calc](https://github.com/OliCyrus/FancyCalc)
 [PadawansTask2](https://github.com/OliCyrus/PadawansTask2)
 [PadawansTask4](https://github.com/OliCyrus/PadawansTask4)
 [PadawansTask5](https://github.com/OliCyrus/PadawansTask5)
