@@ -17,7 +17,9 @@ Recent activity:
  - Military service as telegraph(morse code) an telephone communication specialist. 
 
 ## Projects
+
 ###Padawans Tasks
+
 [Fancy Calc]{https://github.com/OliCyrus/FancyCalc}
 [PadawansTask2](https://github.com/OliCyrus/PadawansTask2)
 [PadawansTask4](https://github.com/OliCyrus/PadawansTask4)
