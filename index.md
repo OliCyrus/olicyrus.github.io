@@ -37,4 +37,4 @@ Recent activity:
  
  ###### Unit Tests
  
- - [Unint Test Sample](https://github.com/OliCyrus/Unit-Testing-Sample)
+ - [Unit Test Sample](https://github.com/OliCyrus/Unit-Testing-Sample)
